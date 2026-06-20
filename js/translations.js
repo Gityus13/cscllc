@@ -1,4 +1,4 @@
-/* ==============================================
+/* ==============================================f
    Caspian Smart Construction MMC
    Translations — AZ | EN | RU
    ============================================== */
@@ -241,29 +241,6 @@ const TRANSLATIONS = {
           num: "04",
           title: "Təhvil & Zəmanət",
           desc: "Layihə tamamlandıqda texniki yoxlama aparır, sənədləri təhvil veririk. Xidmət zəmanəti ilə işinizin davamlılığını təmin edirik."
-        }
-      ]
-    },
-    testimonials: {
-      badge: "Müştəri Rəyləri",
-      title: "Müştərilərimiz",
-      title_accent: "Nə Deyir",
-      subtitle: "Peşəkar xidmətimizi birinci əldən yaşayan müştərilərimizin rəyləri.",
-      items: [
-        {
-          name: "Rauf Əliyev",
-          position: "İnşaat Direktoru, Kapital Bank ASC",
-          text: "Caspian Smart Construction MMC-nin peşəkarlığı sözün əsl mənasında fərqlidir. Bankımızın bir neçə şöbəsinin döşəmə örtüklərini müddətindən əvvəl, büdcəyə uyğun tamamladılar. Keyfiyyətdən şikayətimiz olmadı."
-        },
-        {
-          name: "Leyla Hüseynova",
-          position: "Sahibkar, Abşeron Villalar Kompleksi",
-          text: "Su izolyasiyası problemimizdə əla həll göstərdilər. Komanda çox peşəkar, ünsiyyəti rahat, iş prosesi şəffafdır. Bünövrə izolyasiyasından sonra nəm problemi tamamilə aradan qalxdı."
-        },
-        {
-          name: "Elnur Məmmədov",
-          position: "Texniki Direktor, AzərGold Sənaye Parkı",
-          text: "12.000 m²-lik anbar sahəmizin beton döşəmə işlərini onlara etibar etdik. Sənaye standardlarına tam uyğun, texniki baxımdan mükəmməl bir iş çıxartdılar. Qeyd-şərtsiz tövsiyə edirəm."
         }
       ]
     },
@@ -607,29 +584,6 @@ const TRANSLATIONS = {
         }
       ]
     },
-    testimonials: {
-      badge: "Client Testimonials",
-      title: "What Our",
-      title_accent: "Clients Say",
-      subtitle: "First-hand accounts from clients who have experienced our professional service.",
-      items: [
-        {
-          name: "Rauf Aliyev",
-          position: "Construction Director, Kapital Bank OJSC",
-          text: "The professionalism of Caspian Smart Construction MMC is truly distinctive. They completed the flooring works in several of our branches ahead of schedule and within budget. No complaints about quality whatsoever."
-        },
-        {
-          name: "Leyla Huseynova",
-          position: "Owner, Absheron Villas Complex",
-          text: "They provided an excellent solution to our waterproofing problem. The team is highly professional, communication is smooth, and the work process is transparent. The moisture problem was completely eliminated after the foundation waterproofing."
-        },
-        {
-          name: "Elnur Mammadov",
-          position: "Technical Director, AzərGold Industrial Park",
-          text: "We entrusted them with the concrete flooring works of our 12,000 m² warehouse. They delivered a technically flawless result, fully compliant with industrial standards. I recommend them without reservation."
-        }
-      ]
-    },
     faq: {
       badge: "Frequently Asked Questions",
       title: "Looking for",
@@ -967,29 +921,6 @@ const TRANSLATIONS = {
           num: "04",
           title: "Сдача и Гарантия",
           desc: "По завершении проводим технический осмотр и передаём всю документацию. Гарантия обслуживания обеспечивает долговечность вашей работы."
-        }
-      ]
-    },
-    testimonials: {
-      badge: "Отзывы Клиентов",
-      title: "Что Говорят",
-      title_accent: "Наши Клиенты",
-      subtitle: "Отзывы клиентов, лично познавших наш профессиональный сервис.",
-      items: [
-        {
-          name: "Рауф Алиев",
-          position: "Директор по строительству, Kapital Bank OJSC",
-          text: "Профессионализм Caspian Smart Construction MMC действительно выдающийся. Они завершили напольные работы в нескольких наших отделениях досрочно и в рамках бюджета. Никаких претензий к качеству."
-        },
-        {
-          name: "Лейла Гусейнова",
-          position: "Владелец, Жилой Комплекс Абшерон Виллы",
-          text: "Они предложили отличное решение нашей проблемы с гидроизоляцией. Команда очень профессиональная, общение лёгкое, рабочий процесс прозрачный. Проблема с влажностью полностью устранена после гидроизоляции фундамента."
-        },
-        {
-          name: "Эльнур Мамедов",
-          position: "Технический директор, AzərGold Индустриальный Парк",
-          text: "Мы доверили им работы по бетонному полу нашего склада площадью 12 000 м². Они выдали технически безупречный результат, полностью соответствующий промышленным стандартам. Рекомендую без оговорок."
         }
       ]
     },
