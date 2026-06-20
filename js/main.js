@@ -83,7 +83,6 @@ function applyLang(lang, save) {
   renderProjects();
   renderWhyUs();
   renderProcess();
-  renderTestimonials();
   renderFAQ();
   renderContactOpts();
   renderStats();
@@ -227,30 +226,6 @@ function renderProcess() {
       <div class="p-num-wrap"><span class="p-num">${s.num}</span></div>
       <h3 class="p-stl">${s.title}</h3>
       <p class="p-sdsc">${s.desc}</p>
-    </div>
-  `).join('');
-}
-
-/* ============================================================
-   RENDER: TESTIMONIALS
-   ============================================================ */
-function renderTestimonials() {
-  const g = document.getElementById('testi-grid');
-  if (!g) return;
-  const items = T('testimonials.items');
-  if (!Array.isArray(items)) return;
-  g.innerHTML = items.map((x,i) => `
-    <div class="tcard rv d${i+1}">
-      <div class="tcard-qm">"</div>
-      <div class="tstars">${'<span>★</span>'.repeat(5)}</div>
-      <p class="ttext">${x.text}</p>
-      <div class="tauth">
-        <div class="tav">${x.name.charAt(0)}</div>
-        <div>
-          <div class="tname">${x.name}</div>
-          <div class="tpos">${x.position}</div>
-        </div>
-      </div>
     </div>
   `).join('');
 }
